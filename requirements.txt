@@ -1,2 +1,4 @@
 openai
 PyPDF2
+pandas
+json5
